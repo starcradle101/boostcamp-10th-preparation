@@ -1,0 +1,24 @@
+{
+	"name": "boostcamp-10th-preparation",
+	"version": "1.0.0",
+	"description": "부스트캠프 웹/모바일 10기 준비 과정을 기록합니다.",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/starcradle101/boostcamp-10th-preparation.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"type": "commonjs",
+	"bugs": {
+		"url": "https://github.com/starcradle101/boostcamp-10th-preparation/issues"
+	},
+	"homepage": "https://github.com/starcradle101/boostcamp-10th-preparation#readme",
+	"devDependencies": {
+		"jest": "^29.7.0"
+	}
+}
